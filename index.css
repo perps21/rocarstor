@@ -349,11 +349,12 @@ text-align:right;
         height: 150px;
         background-color: #fff;
         float:left;
+    
     }
     .img1 img{
         height:180px;
         width:400px;
-        
+        box-shadow: 0 -3px rgb(0 0 0 / 0.2);
     }
      .img2{
         width:26.5%;
@@ -366,7 +367,7 @@ text-align:right;
      .img2 img{
         height:180px;
         width:400px;
-        
+        box-shadow: 0 -3px rgb(0 0 0 / 0.2);
     }
      .img3{
         width:26.5%;
@@ -379,6 +380,28 @@ text-align:right;
      .img3 img{
         height:180px;
         width:400px;
+        box-shadow: 0 -3px rgb(0 0 0 / 0.2);
      }
     
-     
+     .contact{
+        height:400px;
+        width:78%;
+        background-color:#fffaf4;
+        float:left;
+        margin-top:400px;
+        margin-left:250px;
+        border-radius:10px;
+     }
+     .phonepic img{
+    float:right;
+    margin-right:200px;
+    margin-top:-300px;
+    
+     }
+     .text{
+        margin-left:300px;
+     }
+     .text img{
+        float:left;
+        height:
+     }
