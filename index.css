@@ -400,7 +400,7 @@ text-align:right;
      }
      .text{
         margin-left:300px;
-        
+        margin-top:50px;
      }
      #img{
         display:flex;
@@ -428,4 +428,22 @@ text-align:right;
         height:200px;
         float:left;
         display:flex;
+        justify-content:space-between;
+        margin-top:60px;
      }
+
+     input[type=text] {
+        border: 2px solid #FF5349;
+    
+        padding: 16px 32px;
+      }
+
+     input[type=submit] {
+  background-color: #FF5349;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  border-radius:10px;
+}
