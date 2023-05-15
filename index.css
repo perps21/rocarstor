@@ -400,8 +400,19 @@ text-align:right;
      }
      .text{
         margin-left:300px;
+        
      }
-     .text img{
+     #img1{
         float:left;
-        height:200px;
+        height:100px;
+        width:60px;
+        margin-right:100px;
+        display:flex;
+     }
+     #img2 img{
+        float:right;
+        height:100px;
+        width:60px;
+        margin-right:100px;
+        display:flex;
      }
