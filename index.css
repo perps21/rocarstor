@@ -340,6 +340,8 @@ text-align:right;
         margin-top:20px;
         margin-left:15%;
         margin-right:15%; 
+        text-align:center;
+        font-size:20px;
     
      }
     .img1{
@@ -377,5 +379,6 @@ text-align:right;
      .img3 img{
         height:180px;
         width:400px;
+     }
     
-    }
+     
