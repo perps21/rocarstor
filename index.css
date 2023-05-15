@@ -402,17 +402,23 @@ text-align:right;
         margin-left:300px;
         
      }
-     #img1{
+     #img{
+        display:flex;
+        justify-content:space-evenly;
+        align-items: center;
+        margin-left: -535px;
+        padding:2px;
+        
+     }
+     #img img{
+        margin-top:-50px;
+        margin-left:-250px;
+        max-width:400px;
+     }
+
+     #img img:nth-child(2){
         float:left;
-        height:100px;
-        width:60px;
-        margin-right:100px;
-        display:flex;
-     }
-     #img2 img{
-        float:right;
-        height:100px;
-        width:60px;
-        margin-right:100px;
-        display:flex;
-     }
+        margin-top:-50px;
+        margin-left:-755px;
+        max-width:200px;
+     } 
