@@ -5,7 +5,8 @@ This is a car purchase and rental website.
 
 # Description
 
-This website helps you choose the car you want to 
+This website helps you choose the car you want to purchase or rent.
+it also tells you who Rocarstor are what they do and the services they offer.
 
 # Languages used
 
