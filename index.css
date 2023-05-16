@@ -447,3 +447,9 @@ text-align:right;
   margin: 4px 2px;
   border-radius:10px;
 }
+.honda img{
+    max-width:45px;
+    float:left;
+    margin-top:-16px;
+    margin-left:15px;
+}
