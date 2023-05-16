@@ -121,6 +121,7 @@ margin-left:15%;
  .categories{
     width:100%;
     float:left;
+    padding:30px;
  }
  
 
@@ -131,6 +132,7 @@ margin-left:15%;
     width: 7%;
     height:45px;
     margin-left:15%;
+    
  }
  .mercedes p{
 font-weight:bold;
@@ -210,6 +212,7 @@ text-align:right;
     margin-left:1%;
     border-color:#000;
     border: 1px solid #000;
+    margin-bottom:20px;
  }
  .mazda{
     font-weight:bold;
