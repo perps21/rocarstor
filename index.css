@@ -149,9 +149,15 @@ text-align:right;
  }
  .audi p{
     font-weight:bold;
-    text-align:right;
+    text-align:justify;
  
      }
+     .audi img{
+        max-width:45px;
+        float:left;
+        margin-top:-16px;
+        margin-left:15px;
+    }
  .honda{
     float:left;
     background-color: #FFf;
@@ -164,9 +170,16 @@ text-align:right;
  }
  .honda p{
     font-weight:bold;
-    text-align:right;
- 
+    text-align:justify;
+    
      }
+     .honda img{
+        max-width:45px;
+        float:left;
+        margin-top:-16px;
+        margin-left:15px;
+    }
+
  .toyota{
     float:left;
     background-color: #FFf;
@@ -446,10 +459,4 @@ text-align:right;
   text-decoration: none;
   margin: 4px 2px;
   border-radius:10px;
-}
-.honda img{
-    max-width:45px;
-    float:left;
-    margin-top:-16px;
-    margin-left:15px;
 }
